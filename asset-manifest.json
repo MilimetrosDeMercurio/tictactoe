@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "MilimetrosDeMercurio.github.io/tictactoe/static/css/main.3fa7586b.chunk.css",
+    "main.js": "MilimetrosDeMercurio.github.io/tictactoe/static/js/main.d9f8ea86.chunk.js",
+    "main.js.map": "MilimetrosDeMercurio.github.io/tictactoe/static/js/main.d9f8ea86.chunk.js.map",
+    "runtime-main.js": "MilimetrosDeMercurio.github.io/tictactoe/static/js/runtime-main.d34c9161.js",
+    "runtime-main.js.map": "MilimetrosDeMercurio.github.io/tictactoe/static/js/runtime-main.d34c9161.js.map",
+    "static/js/2.52dd166e.chunk.js": "MilimetrosDeMercurio.github.io/tictactoe/static/js/2.52dd166e.chunk.js",
+    "static/js/2.52dd166e.chunk.js.map": "MilimetrosDeMercurio.github.io/tictactoe/static/js/2.52dd166e.chunk.js.map",
+    "index.html": "MilimetrosDeMercurio.github.io/tictactoe/index.html",
+    "precache-manifest.b0cc7eeac313584f3da7753058528ceb.js": "MilimetrosDeMercurio.github.io/tictactoe/precache-manifest.b0cc7eeac313584f3da7753058528ceb.js",
+    "service-worker.js": "MilimetrosDeMercurio.github.io/tictactoe/service-worker.js",
+    "static/css/main.3fa7586b.chunk.css.map": "MilimetrosDeMercurio.github.io/tictactoe/static/css/main.3fa7586b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d34c9161.js",
+    "static/js/2.52dd166e.chunk.js",
+    "static/css/main.3fa7586b.chunk.css",
+    "static/js/main.d9f8ea86.chunk.js"
+  ]
+}
